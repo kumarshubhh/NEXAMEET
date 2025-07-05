@@ -30,7 +30,7 @@
 
 | Category     | Tools Used                                |
 |--------------|--------------------------------------------|
-| **Frontend** | HTML5, CSS3, Vanilla JavaScript            |
+| **Frontend** | HTML5, CSS, ReactJS            |
 | **Backend**  | Node.js, Express.js                        |
 | **Real-time**| WebRTC, Socket.IO                          |
 | **Deployment** | Render (Backend)                         |
